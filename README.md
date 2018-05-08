@@ -4,7 +4,7 @@
 
 - Create folder for tests and move to folder ($ mkdir MochaProject / $ cd MochaProject)
 
-- Run - $ npm int
+- Run - $ npm init
 
 - Configure Package.json file according to your needs
 
