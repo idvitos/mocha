@@ -1,6 +1,6 @@
 var expect = require('chai').expect;
 describe('webdriver.io api page', function() {
-    it('should be able to filter for commands', function () {
+    it.skip('should be able to filter for commands', function () {
         browser.url('/api.html');
 
         // filtering property commands
